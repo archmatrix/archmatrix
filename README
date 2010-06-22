@@ -1,20 +1,24 @@
-[1;34m
-[1;34m               +                [1;34mOS:[0m Arch Linux i686
-[1;34m               #                [1;34mHostname:[0m arch
-[1;34m              ###               [1;34mKernel:[0m 2.6.32-lts
-[1;34m             #####              [1;34mUptime:[0m 1:30
-[1;34m             ######             [1;34mWindow Manager:[0m Awesome
-[1;34m            ; #####;            [1;34mDesktop Environment:[0m None found
-[1;34m           +##.#####            [1;34mPackages:[0m 514
-[1;34m          +##########           [1;34mRAM:[0m 387 MB / 1970 MB
-[1;34m         ######[0;34m#####[1;34m##;         [1;34mCPU:[0m Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz
-[1;34m        ###[0;34m############[1;34m+        [1;34mShell:[0m Bash
-[1;34m       #[0;34m######   #######        [1;34mRoot FS:[0m 4.8G / 94G (ext4)
-[0;34m     .######;     ;###;`".      [1;34mHome FS:[0m 2.9G / 282G (ext4)
-[0;34m    .#######;     ;#####.       
-[0;34m    #########.   .########`     
-[0;34m   ######'           '######    
-[0;34m  ;####                 ####;   
-[0;34m  ##'                     '##   
-[0;34m #'                         `#  
-[0m 
+┌─[arch]───[~]
+| 00:35:28 up  1:33,  2 users,  load average: 0.32, 0.09, 0.04
+└─╼ archey 
+
+               +                OS: Arch Linux i686
+               #                Hostname: arch
+              ###               Kernel: 2.6.32-lts
+             #####              Uptime: 1:34
+             ######             Window Manager: Awesome
+            ; #####;            Desktop Environment: None found
+           +##.#####            Packages: 514
+          +##########           RAM: 389 MB / 1970 MB
+         #############;         CPU: Intel(R) Core(TM)2 Duo CPU P8600 @ 2.40GHz
+        ###############+        Shell: Bash
+       #######   #######        Root FS: 4.8G / 94G (ext4)
+     .######;     ;###;`".      Home FS: 2.9G / 282G (ext4)
+    .#######;     ;#####.       
+    #########.   .########`     
+   ######'           '######    
+  ;####                 ####;   
+  ##'                     '##   
+ #'                         `#  
+ 
+
