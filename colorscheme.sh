@@ -6,7 +6,7 @@
 #   out of 17 (default + 16 escapes), followed by a 
 #   test use of that color on all nine background 
 #   colors (default + 8 escapes).
-#
+#   test
 
 T='gYw'   # The test text
 
